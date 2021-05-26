@@ -14,4 +14,5 @@ A sample feature correlation heatmap would be generated based on the array:
 
 # References
 [1] https://github.com/AIM-Harvard/pyradiomics/blob/master/notebooks/FeatureVisualization.ipynb
+
 [2] https://github.com/AIM-Harvard/pyradiomics/blob/master/notebooks/PyRadiomicsExample.ipynb
