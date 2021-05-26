@@ -10,7 +10,7 @@ This function is an alternative to the batch feature extraction method used in [
 
 # Results
 A sample feature correlation heatmap would be generated based on the array:
-![Correlation heatmap](![img.png](img.png))
+![img.png](img.png)
 
 # References
 [1] https://github.com/AIM-Harvard/pyradiomics/blob/master/notebooks/FeatureVisualization.ipynb
